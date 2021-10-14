@@ -1,4 +1,4 @@
 - 👋 Hey, I’m @Godlysk!
 - 🌱 I’m currently working on NLP using the Wolfram Language!
 - 📫 shivkampani@gmail.com
-- 🔗 shivkampani.in
+- 🔗 https://www.shivkampani.in/
