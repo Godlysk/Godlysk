@@ -1,4 +1,4 @@
 - 👋 Hey, I’m @Godlysk!
-- 🌱 I’m currently working on NLP using the Wolfram Language!
-- 📫 shivkampani@gmail.com
+- 🦁 I’m a freshman at Columbia University SEAS
+- 📫 svk2118@columbia.edu
 - 🔗 https://www.shivkampani.in/
