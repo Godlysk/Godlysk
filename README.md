@@ -1,4 +1,3 @@
 - 👋 Hey, I’m @Godlysk!
-- 🦁 I’m a freshman at Columbia University SEAS
+- 🦁 I’m a junior at Columbia University SEAS
 - 📫 svk2118@columbia.edu
-- 🔗 https://www.shivkampani.in/ (last updated April '22)
